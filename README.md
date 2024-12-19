@@ -15,6 +15,12 @@ The repository includes:
 - **Advanced Tkinter Functionalities**: Showcases the use of custom widgets, dynamic UI updates, and event-driven programming to handle user interactions efficiently.
 - **Object-Oriented Programming (OOP) Design**: Implements OOP principles for modularity and maintainability, including the use of classes for UI components, event handling, and data processing logic.
 
+## Some UI componenets
+![image](https://github.com/user-attachments/assets/73158075-5eb8-4ca9-b091-ec030c9d3dbc)
+
+![image](https://github.com/user-attachments/assets/6fef64a0-368f-4a2d-9511-0031c3589f01)
+
+
 ## Disclaimer
 
 This repository does not include the full functionality of the original tool. It is intended as a reference for understanding the layout and optimization approaches used in the development process.
